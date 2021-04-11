@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.header {
+    overflow: hidden;
+}
+.logo {
+    width: 20%;
+    background-color: aqua;
+    height: 100px;
+    float: left;
+}
+.nav {
+    width: 80%;
+    background-color: blue;
+    height: 100px;
+    float: right;
+}
+.parent {
+    overflow: hidden;
+}
+
+.left {
+    width: 20%;
+    height: 500px;
+    background-color: burlywood;
+    float: left;
+    overflow: hidden;
+}
+.center {
+    width: 50%;
+    height: 500px;
+    background-color: cornflowerblue;
+    float: left;
+}
+.right {
+    width: 20%;
+    height: 500px;
+    background-color: darkblue;
+    float: left;
+}
+.another {
+    width: 10%;
+    height: 500px;
+    background-color: darkolivegreen;
+    float: right;
+}
+
+.left_one {
+    height: 250px;
+    background-color: darkorange;
+}
+
+.left_two {
+    height: 250px;
+    
+}
+
+.footer {
+    background-color: darkorchid;
+    height: 100px;
+}
